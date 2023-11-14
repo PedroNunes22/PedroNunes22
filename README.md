@@ -1,16 +1,17 @@
-### Hi there 👋
+### Pedro Nunes
+👋 Hi, my name is Pedro and I'm a FrontEnd developer.
+<br>
+📚 Studying Analysis and System Development at FATEC - Guaratinguetá
+<br>
 
-<!--
-**PedroNunes22/PedroNunes22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bash,bootstrap,git,java,vscode)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/PedroNunes22">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNunes22&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroNunes22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My socials
+<a href="https://www.linkedin.com/in/pedro-nunes-310aa028a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
